@@ -1,1 +1,1 @@
-https://LeNaPR.github.io/rsschool-cv/cv
+https://lenapr.github.io/rsschool-cv/cv
